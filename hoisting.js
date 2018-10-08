@@ -6,14 +6,14 @@ function callMe() {
   var lyric = "maybe";
   return lyric;
 }
-// 
-// function crazy() {
-//   // fix the code in here:
-// var thisIsCrazy();
-//   var thisIsCrazy = function (){
-//     console.log("hey!!!")
-//   }
-// }
+
+function crazy() {
+  // fix the code in here:
+var thisIsCrazy();
+  var thisIsCrazy = function (){
+    console.log("hey!!!")
+  }
+}
 //
 // function sayMyName() {
 //   // fix the code in here:
